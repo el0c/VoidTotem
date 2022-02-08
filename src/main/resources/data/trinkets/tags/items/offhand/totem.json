@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "voidtotem:totem_of_void_undying",
     "minecraft:totem_of_undying"
